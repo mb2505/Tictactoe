@@ -1,4 +1,4 @@
-The example below shows how your program should work.
+The example below shows how the program should work.
 
 ---------
 |       |
